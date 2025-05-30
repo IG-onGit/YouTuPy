@@ -1,12 +1,12 @@
-# YouTuPy v1.0.0
+# YouTuPy v1.0.1
 
 **Project**: YouTuPy
-<br>**Version**: 1.0.0
+<br>**Version**: 1.0.1
 <br>**OS**: OS Independent
 <br>**Author**: Irakli Gzirishvili
 <br>**Mail**: gziraklirex@gmail.com
 
-**YouTuPy** is a Python command-line interface application. Download videos from YouTube
+**YouTuPy** is a Python command-line interface application. By using YouTuPy, you can download entire playlists or specific videos as .mp4 video files or .mp3 audio files.
 
 ## Installation
 

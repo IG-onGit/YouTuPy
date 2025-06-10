@@ -37,9 +37,9 @@ class index:
 
         return "Connection added successfully"
 
-    def download(self, mp3=""):  # (-mp3) - Download the full playlist or a single one
+    def download(self, mp3="", name="", cmd=""):  # (-mp3) - Download the full playlist or a single one
         mp3 = mp3 == "-mp3"
-        selected = self.__select("playlist or location for downloading")
+        selected = name if name.strip() and name != "-dev" else self.__select("playlist or location for downloading")
         if not selected:
             return "No connections were found!"
 

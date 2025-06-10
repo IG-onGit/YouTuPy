@@ -1,7 +1,7 @@
-# YouTuPy v1.0.1
+# YouTuPy v1.0.2
 
 **Project**: YouTuPy
-<br>**Version**: 1.0.1
+<br>**Version**: 1.0.2
 <br>**OS**: OS Independent
 <br>**Author**: Irakli Gzirishvili
 <br>**Mail**: gziraklirex@gmail.com
